@@ -6,7 +6,7 @@ Welcome to ExpresIT, a social media application clone that allows users to share
 
 Checkout Live Preview by clicking the image below:
 
-[![LivePreview](./client/src/assets/preview.jpg)](https://threads-clone-two-pink.vercel.app/)
+[![LivePreview](./client/src/assets/preview.jpg)](https:///)
 
 
 
