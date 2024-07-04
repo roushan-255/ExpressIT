@@ -1,6 +1,6 @@
 # ExpressIT
 
-Welcome to ExpresIT, a social media application clone that allows users to share posts, interact with other users, and personalize their experience with dark and light modes. ExpresIT offers full user authentication, including login, logout, signup, and password management features. Users can create, edit, and delete posts, view other users' posts, like and comment on posts, and can save other user's post and follow/unfollow other users.
+Welcome to ExpresIT, a social media application that allows users to share posts, interact with other users, and personalize their experience with dark and light modes. ExpresIT offers full user authentication, including login, logout, signup, and password management features. Users can create, edit, and delete posts, view other users' posts, like and comment on posts, and can save other user's post and follow/unfollow other users.
 
 ## 🌐 Live Preview
 
