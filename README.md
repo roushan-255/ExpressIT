@@ -47,8 +47,6 @@ Checkout Live Preview by clicking the image below:
 - **User Authentication:**
   - Signup with username, email and password
   - Login with username or email and password
-  - Logout
-  - Forgot password (using Nodemailer)
 
 - **Post Management:**
   - Create new posts
